@@ -16,7 +16,7 @@
 		g1 e1 a1:m f1
 		d1:m e1 a2:m g2 f1
 		g1 e1 a1:m f1
-		d1:m e1 a1:m f1
+		d1:m e1 a1:m e1
 
 		% vengan y subamos (final)...
 		a1:m d1:m f2 g2 a1:m
