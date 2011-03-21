@@ -71,9 +71,9 @@
 
 	\lyricsto "soprano" \new Lyrics \lyricmode {
 		Ven -- gan y su -- ba -- mos al mon -- te del Se -- ñor
-		"a a" do -- rar en su tem -- plo san -- to.
+		"a a" -- do -- rar en su tem -- plo san -- to.
 		Ven -- gan y su -- ba -- mos al mon -- te del Se -- ñor
-		"a a" do -- rar en su tem -- plo san -- to.
+		"a a" -- do -- rar en su tem -- plo san -- to.
 
 		La ley sal -- drá de Si -- ón, __
 		la pa -- la -- bra del Se -- ñor, de Je -- ru -- sa -- lén.
@@ -81,7 +81,7 @@
 		y sus sen -- das nos mos -- tra -- rá.
 
 		Ven -- gan y su -- ba -- mos al mon -- te del Se -- ñor
-		"a a" do -- rar en su tem -- plo san -- to,
-		"a a" do -- rar en su tem -- plo san -- to.
+		"a a" -- do -- rar en su tem -- plo san -- to,
+		"a a" -- do -- rar en su tem -- plo san -- to.
 	}
 >>
