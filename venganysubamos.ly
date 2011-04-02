@@ -25,12 +25,13 @@ globalTempo = {
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
-		\include "venganysubamos-acordes.inc"
+		\transpose a b { \include "venganysubamos-acordes.inc" }
+
 		\new StaffGroup <<
-			\include "venganysubamos-soprano.inc"
+			\transpose a b { \include "venganysubamos-soprano.inc" }
 		>>
 
-		\include "venganysubamos-ocarina.inc"
+		\transpose a b { \include "venganysubamos-ocarina.inc" }
 	>>
 %	\layout { }
 	\layout {
