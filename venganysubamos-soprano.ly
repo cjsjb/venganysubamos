@@ -2,6 +2,9 @@
 \version "2.10.0"
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
+
+\include "venganysubamos.def"
+
 \header {
 	title = "Vengan y subamos"
 	tagline = "Coro Juvenil San Juan Bosco"
@@ -27,7 +30,7 @@ globalTempo = {
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
-		\transpose a b { \include "venganysubamos-acordes.inc" }
+		\include "venganysubamos-acordes.inc"
 
 		\new StaffGroup <<
 			\transpose a b { \include "venganysubamos-soprano.inc" }
