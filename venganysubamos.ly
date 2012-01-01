@@ -22,7 +22,7 @@ global = {
 	\skip 1*49
 }
 globalTempo = {
-	\tempo 4 = 130  \skip 1*49
+	\tempo 4 = 125  \skip 1*49
 }
 \score {
 	<< % common
@@ -32,10 +32,10 @@ globalTempo = {
 		\include "venganysubamos-acordes.inc"
 
 		\new StaffGroup <<
-			\transpose a b { \include "venganysubamos-soprano.inc" }
+			\include "venganysubamos-soprano.inc"
 		>>
 
-		\transpose a b { \include "venganysubamos-ocarina.inc" }
+		\include "venganysubamos-ocarina.inc"
 	>>
 %	\layout { }
 	\layout {

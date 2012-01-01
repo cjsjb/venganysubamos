@@ -9,11 +9,12 @@
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
-		\clef "treble"
-		\key a \minor
-		R1  |
-		r2 c'' 8. b' g' 8  |
-		a' 1  |
-		gis' 1  |
+		\clef "treble^8"
+		\key b \minor
+                R1  |
+                r2 \times 2/3 { d''' 4 cis''' a'' }  |
+                b'' 1  |
+                ais'' 1  |
+		R1*45
         }
 >>

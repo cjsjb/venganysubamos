@@ -10,64 +10,66 @@
 		\override MultiMeasureRest #'expand-limit = 1
 
 		\clef "treble"
-		\key a \minor
+		\key b \minor
 		R1*4  |
 %% 5
-		a 4. a 4 b 8 c' 4  |
-		d' 4. d' 4 r8 d' 4  |
-		c' 4 c' d' d'  |
-		e' 2 ~ e' 8 r d' e'  |
-		f' 4. f' f' 4  |
+		b 4. b 4 cis' 8 d' 4  |
+		e' 4. e' 4 r8 e' 4  |
+		d' 4 d' e' e'  |
+		fis' 2 ~ fis' 8 r e' fis'  |
+		g' 4. g' g' 4  |
 %% 10
-		g' 4. g' ~ g' 4  |
-		a' 1  |
-		gis' 2. r4  |
-		a 4. a 4 b 8 c' 4  |
-		d' 4. d' 4 r8 d' 4  |
+		a' 4. a' ~ a' 4  |
+		b' 1  |
+		ais' 2. r4  |
+		b 4. b 4 cis' 8 d' 4  |
+		e' 4. e' 4 r8 e' 4  |
 %% 15
-		c' 4 c' d' d'  |
-		e' 2 ~ e' 8 r d' e'  |
-		f' 4. f' f' 4  |
-		g' 4. g' ~ g' 4  |
-		a' 4 a' 2. ~  |
+		d' 4 d' e' e'  |
+		fis' 2 ~ fis' 8 r e' fis'  |
+		g' 4. g' g' 4  |
+		a' 4. a' ~ a' 4  |
+		b' 4 b' 2. ~  |
 %% 20
-		a' 2 r4 c'  |
-		d' 2. d' 4  |
-		e' 2 e' 4 e'  |
-		a' 4. ( g' 8 e' 2  |
-		f' 2 ) f' 4 f'  |
+		b' 2 r4 d'  |
+		e' 2. e' 4  |
+		fis' 2 fis' 4 fis'  |
+		b' 4. ( a' 8 fis' 2
+		% warning: overlong bar truncated here |
+		g' 2 ) g' 4 g'  |
 %% 25
-		f' 4 f' f' f'  |
-		e' 2 e' 4 e'  |
-		a' 2 g'  |
-		f' 1  |
-		g' 2 g' 4 g'  |
+		g' 4 g' g' g'  |
+		fis' 2 fis' 4 fis'  |
+		b' 2 a'  |
+		g' 1  |
+		a' 2 a' 4 a'  |
 %% 30
-		gis' 2 gis' 4 gis'  |
-		a' 4. ( g' 8 ) e' 2 (  |
-		f' 2 ) f' 4 f'  |
-		f' 2 f'  |
-		e' 4. r8 e' 4 e'  |
+		ais' 2 ais' 4 ais'  |
+		b' 4. ( a' 8 ) fis' 2 (
+		% warning: overlong bar truncated here |
+		g' 2 ) g' 4 g'  |
+		g' 2 g'  |
+		fis' 4. r8 fis' 4 fis'  |
 %% 35
-		e' 1  |
+		fis' 1  |
 		R1  |
-		a 4. a 4 b 8 c' 4  |
-		d' 4. d' 4 r8 d' 4  |
-		c' 4 c' d' d'  |
+		b 4. b 4 cis' 8 d' 4  |
+		e' 4. e' 4 r8 e' 4  |
+		d' 4 d' e' e'  |
 %% 40
-		e' 2 ~ e' 8 r d' e'  |
-		f' 4. f' f' 4  |
-		g' 4. g' ~ g' 4  |
-		a' 4 a' 2. ~  |
-		a' 2 r4 d' 8 e'  |
+		fis' 2 ~ fis' 8 r e' fis'  |
+		g' 4. g' g' 4  |
+		a' 4. a' ~ a' 4  |
+		b' 4 b' 2. ~  |
+		b' 2 r4 e' 8 fis'  |
 %% 45
-		f' 4. f' f' 4  |
-		g' 4. g' ~ g' 4  |
-		a' 4 a' 2. ~  |
-		a' 1  |
+		g' 4. g' g' 4  |
+		a' 4. a' ~ a' 4  |
+		b' 4 b' 2. ~  |
+		b' 1  |
 		R1  |
 		\bar "|."
-        }
+	}
 
 	\lyricsto "soprano" \new Lyrics \lyricmode {
 		Ven -- gan y su -- ba -- mos al mon -- te del Se -- ñor
