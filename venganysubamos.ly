@@ -37,7 +37,6 @@ globalTempo = {
 
 		\include "venganysubamos-ocarina.inc"
 	>>
-%	\layout { }
 	\layout {
 		\context { \RemoveEmptyStaffContext }
 		\context { \ChordNames \consists Instrument_name_engraver }
