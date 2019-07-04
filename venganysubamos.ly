@@ -33,6 +33,7 @@ globalTempo = {
 
 		\new StaffGroup <<
 			\include "venganysubamos-soprano.inc"
+			\include "venganysubamos-mezzo.inc"
 		>>
 
 		\include "venganysubamos-ocarina.inc"
