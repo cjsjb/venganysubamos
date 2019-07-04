@@ -33,17 +33,17 @@
 %% 20
 		d' 2 r4 d'  |
 		e' 2. e' 4  |
-		cis' 2 cis' 4 cis'  |
+		cis' 2 b 4 cis'  |
 		d' 4. ( e' 8 d' 2 ~  |
 		d' 2 ) d' 4 d'  |
 %% 25
 		d' 4 d' d' d'  |
-		cis' 2 cis' 4 cis'  |
+		cis' 2 b 4 cis'  |
 		fis' 2 e'  |
 		d' 1  |
 		e' 2 e' 4 e'  |
 %% 30
-		cis' 2 cis' 4 cis'  |
+		cis' 2 b 4 cis'  |
 		d' 4. ( e' 8 ) d' 2 ~  |
 		d' 2 d' 4 d'  |
 		d' 2 d'  |
