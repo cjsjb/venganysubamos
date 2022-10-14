@@ -69,7 +69,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		Ven -- gan y su -- ba -- mos al mon -- te del Se -- ñor __
 		"a a" -- do -- rar en su tem -- plo san -- to.
 		Ven -- gan y su -- ba -- mos al mon -- te del Se -- ñor __
