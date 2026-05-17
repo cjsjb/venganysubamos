@@ -1,8 +1,6 @@
 \version "2.10.0"
 #(ly:set-option 'point-and-click #f)
 
-\include "venganysubamos.def"
-
 \header {
 	title = "Vengan y subamos"
 	tagline = "Coro Juvenil San Juan Bosco"
